@@ -1,0 +1,20 @@
+Assignment-1
+Problem Statement:
+ My application should have a user registration format.
+ Upon submitting the Register an alert should be showing the user
+saying user registed Successfully. 
+Form should use twitter bootstrap as CSS and angularjs
+as the js library
+with the following fields.
+ 1. First Name - textbox
+ 2. Last Name  - textbox
+ 3. Age        - texbox should allow only numerics
+ 4. Gender     - Should be radio buttons with Male and fem
+ 5. State - Dropdown list
+    on Selected the state cities for that should be populated.
+    (hint- use ng-change for the state dropdown)
+ 6. City  - Dropdown based on the state selection
+ 7. UserAgreeMent : Checkbox.
+ 8. Register : should be a button and should get enabeld only 
+    when all the user info is entered.
+
